@@ -1,2 +1,2 @@
-# gigamax
-Plataforma com o catálogo de produtos da empresa Giga Max Condutores Elétricos Ltda
+# Giga Max
+Plataform with the products catalog from Giga Max Condutores Elétricos Ltda company.
